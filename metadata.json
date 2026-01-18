@@ -1,0 +1,7 @@
+{
+  "name": "HistPech",
+  "description": "Plateforme de soutien scolaire intelligent (6ème à Terminale) avec tuteur IA socratique.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
